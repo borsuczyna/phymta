@@ -1,0 +1,12 @@
+<meta>
+    <info author='borsuczyna' name='phymta' type='script' description='phymta' version='0.1.6' />
+
+    <!-- useful -->
+    <script src='useful/class.lua' type='client' cache='false'/>
+    <script src='useful/matrix.lua' type='client' cache='false'/>
+
+    <!-- physics -->
+    <script src='physics/box.lua' type='client' cache='false'/>
+
+    <script src='main.lua' type='client' cache='false'/>
+</meta>
